@@ -7,7 +7,7 @@ This project delivers an end-to-end analysis of employee attrition data using SQ
 - Total Employee Count: 1K (1,470 Employees)
 - Total Attrition: 237
 - Attrition Rate: 16.12%
-  [Dashboard Layout Preview](HR_Analytics Dashboard_preview.png)
+- [Dashboard Layout Preview](HR_Analytics Dashboard_preview.png)
 
 ## Repository Content
 - HR_Analytics_Dashboard.pbix: Main Power BI file containing the data model, DAX measures, and interactive visualizations.
